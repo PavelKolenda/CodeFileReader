@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "EjNP8VHGOvu1JwQqV0nHOIni6UYHuBxgv6rT3TBC8pDVbHzzgZWZFc7LEBkXiu0b+7bVVdVZ4Xd90+r2rUvEXw==",
+  "success": true,
+  "projectFilePath": "D:\\Test\\CodeFileReader\\CodeFileReader\\CodeFileReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pavel\\.nuget\\packages\\docx\\2.4.0\\docx.2.4.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\google.apis\\1.61.0\\google.apis.1.61.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\google.apis.auth\\1.61.0\\google.apis.auth.1.61.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\google.apis.core\\1.61.0\\google.apis.core.1.61.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\google.apis.docs.v1\\1.61.0.2979\\google.apis.docs.v1.1.61.0.2979.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
